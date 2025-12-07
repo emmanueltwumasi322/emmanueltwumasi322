@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
 - <b>Compute and Storage</b>
-  - [Hosting a Static Website on Amazon S3](https://github.com/emmanueltwumasi322/Static-website-S3)
+  - [Hosting a Static Website on Amazon S3 + CloudFront](https://github.com/emmanueltwumasi322/Static-website-S3)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
