@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel! </h1>
 
-<h2>👨‍💻 Cloud Engineering Projects:</h2>
+<h2>👨‍💻 AWS Cloud Projects:</h2>
 
 - <b>Compute and Storage</b>
   - [Hosting a Static Website on Amazon S3](https://github.com/emmanueltwumasi322/Static-website-S3)
