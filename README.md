@@ -5,10 +5,7 @@
 - <b>Compute and Storage</b>
   - [Hosting a Static Website on Amazon S3 + CloudFront](https://github.com/emmanueltwumasi322/Static-website-S3)
 - <b>Application Building/Hosting</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Serverless Web Application using Amazon DynamoDB](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Database Management</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
