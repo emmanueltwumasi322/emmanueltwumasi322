@@ -5,13 +5,9 @@
 - <b>Compute and Storage</b>
   - [Hosting a Static Website on Amazon S3 + CloudFront](https://github.com/emmanueltwumasi322/Static-website-S3)
 - <b>Application Building/Hosting</b>
-  - [Serverless Web Application using Amazon DynamoDB](https://github.com/joshmadakor1/Sentinel-Lab)
+  - Serverless Web Application using Amazon DynamoDB
 - <b>Database Management</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Automation</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Networking/Security</b>
 <h2> 🤳 Connect with me:</h2>
  - Linkedin: https://linkedin.com/in/emmanuel-twumasi-3390392a5/
