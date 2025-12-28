@@ -5,6 +5,7 @@
 
 - <b>Compute and Storage</b>
   - [Hosting a Static Website on Amazon S3 & CloudFront](https://github.com/emmanueltwumasi322/Static-website-S3)
+- <b>Data Analytics & Visualization</b>
   - [Creating Data Insights with AWS QuickSight & S3](https://github.com/emmanueltwumasi322/Data-Visualization-with-AWS-S3-and-Quicksight)
 - <b>Application Building/Hosting</b>
   - Serverless Web Application using Amazon DynamoDB
