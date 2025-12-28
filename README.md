@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! </h1>
+<h1>Hi, I'm Emmanuel! Welcome to my AWS Projects Portfolio. This repository highlights my hands-on experience with a range of AWS services through thoughtfully designed and well organized projects. Each project is housed in its own directory and demonstrates practical use cases that reflects my AWS knowledge and technical skill set. </h1>
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
