@@ -5,7 +5,7 @@
 
 - <b>Compute and Storage</b>
   - [Hosting a Static Website on Amazon S3 & CloudFront](https://github.com/emmanueltwumasi322/Static-website-S3)
-  - [Improving High Availability with Amazon EC2 Across Multiple Availability Zones]([https://github.com/emmanueltwumasi322/Static-website-S3](https://github.com/emmanueltwumasi322/Improving-High-Availability-with-Amazon-EC2-Across-Multiple-Availability-Zones/blob/main/README.md))
+  - [Improving High Availability with Amazon EC2 Across Multiple Availability Zones](https://github.com/emmanueltwumasi322/Improving-High-Availability-with-Amazon-EC2-Across-Multiple-Availability-Zones/blob/main/README.md)
 - <b>Data Analytics & Visualization</b>
   - [Creating Data Insights with AWS QuickSight & S3](https://github.com/emmanueltwumasi322/Data-Visualization-with-AWS-S3-and-Quicksight)
 - <b>Application Building/Hosting</b>
