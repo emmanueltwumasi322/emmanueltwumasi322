@@ -13,6 +13,7 @@
 - <b>Database Management</b>
 - <b>Automation</b>
 - <b>Networking/Security</b>
+   - [Configuring Amazon VPC Networking for Secure Web](https://github.com/emmanueltwumasi322/Configuring-VPC-for-secure-web-and-DB-connectivity)
 <h2> 🤳 Connect with me:</h2>
  - Linkedin: https://linkedin.com/in/emmanuel-twumasi-3390392a5/
 <!--
