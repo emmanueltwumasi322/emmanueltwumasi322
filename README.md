@@ -16,6 +16,7 @@
 - <b>Automation</b>
 - <b>Networking/Security</b>
    - [Configuring VPC Networking for Secure Web](https://github.com/emmanueltwumasi322/Configuring-VPC-for-secure-web-and-DB-connectivity)
+   - [Configuring AWS IAM Users, Groups, and Permissions](https://github.com/emmanueltwumasi322/aws-iam-access-management/tree/main)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
