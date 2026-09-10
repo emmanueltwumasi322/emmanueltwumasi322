@@ -9,7 +9,7 @@
 - <b>Data Analytics & Visualization</b>
   - [Creating Data Insights with AWS QuickSight & S3](https://github.com/emmanueltwumasi322/Data-Visualization-with-AWS-S3-and-Quicksight)
 - <b>Application Building/Hosting</b>
-  - Serverless Web Application using Amazon DynamoDB
+  - Serverless Web Application using Amazon DynamoDB (In-progress)
 - <b>Database Management</b>
   - [Configuring Amazon RDS for High Availability and Read Scalability](https://github.com/emmanueltwumasi322/Deploying-RDS-Database-with-Multi-AZ-and-Read-Replicas/blob/main/README.md)
 
