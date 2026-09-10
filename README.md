@@ -13,7 +13,7 @@
 - <b>Database Management</b>
   - [Configuring Amazon RDS for High Availability and Read Scalability](https://github.com/emmanueltwumasi322/Deploying-RDS-Database-with-Multi-AZ-and-Read-Replicas/blob/main/README.md)
 
-- <b>Automation</b>
+- <b>Automation, Scripting & IaC</b>
   - [Cloud Scripting: Bash, AWS CLI, Python & boto3](https://github.com/emmanueltwumasi322/cloud-scripting-practice)
 - <b>Networking/Security</b>
    - [Configuring VPC Networking for Secure Web](https://github.com/emmanueltwumasi322/Configuring-VPC-for-secure-web-and-DB-connectivity)
